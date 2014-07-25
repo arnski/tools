@@ -1,0 +1,1 @@
+{"name":"PHOTOSHOWBOX","children":[{"name":"ARTICLE_GROUP (1:1)","children":[{"name":"ARTICLE_GROUP_MANUAL (1:1)","children":[{"name":"ARTICLE_MANUAL (1:1)","children":[{"name":"CONTENT_ID : text","size":205},{"name":"SPITZMARKE : text","size":381},{"name":"HEADLINE : text","size":915},{"name":"TEASER : textarea","size":444}]}]}]}]}

@@ -1,0 +1,1 @@
+{"name":"FAQ","children":[{"name":"INTRO_HEADLINE : text","size":114},{"name":"INTRO_TEXT : textarea","size":831},{"name":"QUESTION_GROUP (1:200)","children":[{"name":"QUESTION_TEXT : textarea","size":171},{"name":"ANSWER_TEXT : textarea","size":324}]},{"name":"SECTIONS (0:100)","children":[{"name":"HEADLINE : text","size":151},{"name":"TEXT : textarea","size":722}]}]}

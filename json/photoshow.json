@@ -1,0 +1,55 @@
+{
+ "name": "PHOTOSHOW",
+ "children": [
+  {"name": "PHOTOSHOW_OPTIONS : subInclude", "size": 40},
+  {"name": "PHOTOVOTE : checkbox", "size": 40},
+  {"name": "PHOTOVOTE_TOPVALUE : select", "size": 40},
+  {"name": "PHOTOVOTE_ORDER : select", "size": 40},
+  {"name": "THUMBNAIL_NAVIGATION : checkbox", "size": 40},
+  {"name": "PREROLLPAGE : checkbox", "size": 40},
+  {"name": "PREROLLPAGE_DESCRIPTION : textarea", "size": 40},
+  {"name": "AJAX_PHOTOSHOW_DISABLED : checkbox", "size": 40},
+  {"name": "AJAX_PHOTOSHOW : checkbox", "size": 40},
+  {
+   "name": "IMAGES (1:250)",
+   "children": [
+      {"name": "IMAGE : text", "size": 30},
+      {"name": "TEASERIMAGE : text", "size": 30},
+      {"name": "CAPTION : textarea", "size": 30},
+      {"name": "INFO : textarea", "size": 30},
+      {"name": "COPYRIGHT : text", "size": 30},
+      {"name": "LINKS (0:1))", 
+       "children": [
+          {"name": "URL : text", "size": 500},
+          {"name": "TEXT : text", "size": 200},
+          {"name": "TARGET : checkbox", "size": 1}
+        ]
+      },
+      {"name": "ABSTIMMEN (0:1)",
+       "children": [
+          {"name": "FRAGE : text", "size": 300},
+          {"name": "ANTWORTEN : text", "size": 100}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "HUMOR",
+     "children": [
+      {"name": "YES : checkbox", "size": 50},
+      {"name": "ACCEPT_SUGGESTION : checkbox", "size": 50},
+      {"name": "TITEL : text", "size": 50},
+      {"name": "TEASER : text", "size": 50},
+      {"name": "TEASER2 : text", "size": 50},
+      {"name": "TITLE_GFX1 : text", "size": 50},
+      {"name": "TITLE_GFX2 : text", "size": 50}
+     ]
+    },
+    {
+     "name": "MANUAL_FURTHER_PHOTOSHOWS (0:1)",
+     "children": [
+      {"name": "BOXES : article_select", "size": 60}
+     ]
+    }
+ ]
+}

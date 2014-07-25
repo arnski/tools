@@ -1,0 +1,1 @@
+{"name":"VIDEOBOX","children":[{"name":"ARTICLE_GROUP (1:1)","children":[{"name":"ARTICLE_GROUP_MANUAL (1:1)","children":[{"name":"BOX_HEADLINE : text","size":154},{"name":"ARTICLE_MANUAL (1:1)","children":[{"name":"CONTENT_ID : text","size":927},{"name":"SPITZMARKE : text","size":438},{"name":"HEADLINE : text","size":793}]}]}]}]}

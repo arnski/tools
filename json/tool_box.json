@@ -1,0 +1,10 @@
+{
+ "name": "TOOL_BOX",
+ "children": [
+  {"name": "HEADLINE : text*", "size": 10},
+  {"name": "CONTENT_ID : text", "size": 20},
+  {"name": "IMAGE_PATH : text", "size": 30},
+  {"name": "TEXT : textarea", "size": 40},
+  {"name": "LINK_URL : text", "size": 50}
+ ]
+}

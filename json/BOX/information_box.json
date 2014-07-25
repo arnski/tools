@@ -1,0 +1,1 @@
+{"name":"INFORMATION_BOX","children":[{"name":"HEADLINE : text","size":754},{"name":"INFORMATION_LINE (1:200)","children":[{"name":"TEXT : textarea","size":202}]}]}

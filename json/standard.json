@@ -1,0 +1,53 @@
+{
+ "name": "STANDARD",
+ "children": [
+  {"name": "SUPRESS_HEADER : checkbox", "size": 40},
+  {"name": "SUPRESS_SOCIAL_MEDIA : checkbox", "size": 40},
+  {"name": "SUPRESS_DATE : checkbox", "size": 40},
+  {"name": "SUPRESS_FOOTER : checkbox", "size": 40},
+  {"name": "FULL_WIDTH : checkbox", "size": 40},
+  {"name": "SUBNAV_STYLE : radio", "size": 40},
+  {"name": "IS_PRESS_ARTICLE : checkbox", "size": 40},
+  {
+   "name": "PANORAMA_IMAGE (0:1)",
+   "children": [
+      {"name": "URL : text", "size": 30},
+      {"name": "CAPTION : textarea", "size": 30},
+      {"name": "INFO : textarea", "size": 30},
+      {"name": "COPYRIGHT : text", "size": 30}
+     ]
+    },
+    {
+     "name": "SECTIONS (0:100)",
+     "children": [
+      {"name": "SECTION_TYPE : select", "size": 50},
+      {"name": "PAGEBREAK : checkbox", "size": 50},
+      {"name": "ASSIGN_BOX : checkbox", "size": 50},
+      {"name": "HEADLINE : text", "size": 50},
+      {"name": "TEXT : textarea", "size": 50},
+      {
+       "name": "IMAGE",
+       "children": [
+        {"name": "URL : text", "size": 60},
+        {"name": "CAPTION : textarea", "size": 60},
+        {"name": "INFO : textarea", "size": 60},
+        {"name": "COPYRIGHT : text", "size": 60},
+        {"name": "IMAGE_LAYOUT : checkbox", "size": 60}
+       ]
+      },
+      {
+       "name": "COMPONENT (0:1)", 
+       "children": [
+         {"name": "ARTICLE-COMPONENT : subInclude", "size": 60}
+       ]
+      }
+     ]
+    },
+    {
+     "name": "BOXES (0:30)",
+     "children": [
+      {"name": "BOXES : subInclude", "size": 60}
+     ]
+    }
+ ]
+}

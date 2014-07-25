@@ -1,0 +1,1 @@
+{"name":"ARTICLE_BOX","children":[{"name":"ARTICLE_GROUP","children":[{"name":"ARTICLE_GROUP_MANUAL","children":[{"name":"ARTICLE_MANUAL","children":[{"name":"CONTENT_ID : text","size":461},{"name":"HEADLINE : text","size":578}]}]}]},{"name":"FULLWIDTH : checkbox","size":744}]}

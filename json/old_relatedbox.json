@@ -1,0 +1,14 @@
+{
+ "name": "OLD_RELATEDBOX",
+ "children": [
+  {"name": "HEADLINE : text", "size": 60},
+  {
+   "name": "LINKS (1:10)",
+   "children": [
+      {"name": "CONTENT_ID : text", "size": 40},
+      {"name": "SPITZMARKE : text", "size": 100},
+      {"name": "TEXT : text", "size": 250}
+     ]
+    }
+ ]
+}

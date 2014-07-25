@@ -1,0 +1,1 @@
+{"name":"TEXT_PHOTOSHOW","children":[{"name":"SECTIONS (1:250)","children":[{"name":"HEADLINE : text","size":794},{"name":"TEXT : textarea","size":484},{"name":"IMAGES (1:30)","children":[{"name":"IMAGE : text","size":320},{"name":"COPYRIGHT : text","size":168},{"name":"CAPTION : textarea","size":949},{"name":"INFO : textarea","size":456}]}]}]}

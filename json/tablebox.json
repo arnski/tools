@@ -1,0 +1,13 @@
+{
+ "name": "TABLEBOX",
+ "children": [
+  {"name": "HEADLINE : text", "size": 100},
+  {
+   "name": "ROWS (1:10)",
+   "children": [
+      {"name": "LEFT : text", "size": 3938},
+      {"name": "RIGHT : text", "size": 3812}
+     ]
+    }
+ ]
+}
